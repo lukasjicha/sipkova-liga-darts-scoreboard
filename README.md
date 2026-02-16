@@ -1,2 +1,83 @@
-# Darts League – Šipkový zapisovač
-Počítadlo šipek.  Obsahuje 501/301/Cricket. Tvorba pavouka turnajů a statistiky. 
+
+🎯 Darts League – Šipkový zapisovač
+
+Jednoduchý offline zapisovač šipek vytvořený jako hobby projekt pro hraní v hospodě na notebooku.
+
+Vzniklo to z jednoduché potřeby – chtěli jsme hrát šipky bez reklam, bez internetu, bez registrací a bez složitostí.
+Nenašli jsme nic, co by nám vyhovovalo.
+Tak vzniklo tohle.
+
+Jeden HTML soubor.
+Funguje offline.
+Žádné instalace.
+Žádné reklamy.
+Žádné sledování.
+
+🕹 Co aplikace umí
+
+Hra 301 / 501 (včetně dohozů a bust pravidel)
+
+Cricket
+
+Turnajový pavouk
+
+Vestavění boti (různé obtížnosti)
+
+Statistiky hráčů
+
+Historie zápasů
+
+Hlasové hlášky (čeština)
+
+Funguje na notebooku, tabletu i mobilu
+
+Vše běží čistě v prohlížeči.
+
+📦 Jak to použít
+
+Stáhni soubor Darts-League.html
+
+Otevři ho v libovolném moderním prohlížeči
+
+Hraj
+
+Hotovo.
+
+Není potřeba nic instalovat.
+
+🌍 Jazyk
+
+Aplikace je kompletně v češtině včetně hlasových hlášek.
+Projekt je primárně určen pro české hráče.
+
+🔢 Verze
+
+Toto je první veřejné vydání na GitHubu.
+
+Ve skutečnosti je aplikace výsledkem dlouhodobého vývoje a interně se jedná přibližně o verzi 20.
+
+Na GitHubu je tato verze označena jako:
+
+v1.0.0
+
+Veřejné verzování začíná od této chvíle.
+
+🎯 Proč jeden HTML soubor?
+
+Protože jednoduchost je vlastnost.
+
+žádný build systém
+
+žádné závislosti
+
+žádný backend
+
+žádné účty
+
+Stačí otevřít a hrát.
+
+📜 Licence
+
+Projekt je zdarma k použití.
+
+Pokud si ho upravíš nebo vylepšíš, klidně si ho forkni.
