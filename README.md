@@ -96,7 +96,7 @@ sdílet statistiky s ostatními
 
 Aplikace je kompletně v češtině včetně hlasových hlášek.
 Projekt je primárně určen pro české hráče.
-Doporučuji po par pivech zkusit ikonku piva v pravo nahoře :)
+Doporučuji po par pivech zkusit ikonku piva v pravo nahoře :) ale pozor na děti, je to 18+
 
 🔢 Verze
 
