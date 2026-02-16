@@ -38,7 +38,7 @@ Vše běží čistě v prohlížeči.
 
 ![cricket](screenshots/cricket.png)
 
-![pavouk](screenshots/turnaj-pavouk.png)
+![pavouk](screenshots/turnaj_pavouk.png)
 
 📱 Podpora zařízení
 
