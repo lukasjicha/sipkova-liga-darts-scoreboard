@@ -45,6 +45,32 @@ Hotovo.
 
 Není potřeba nic instalovat.
 
+💾 Ukládání dat
+
+Aplikace umožňuje export a import dat ve formátu JSON.
+
+Ukládají se například:
+
+statistiky hráčů
+
+historie zápasů
+
+turnaje
+
+Data nejsou nikam odesílána.
+Vše probíhá lokálně v prohlížeči.
+
+Uživatel si může kdykoliv vytvořit zálohu pomocí exportu JSON souboru
+a později ji znovu načíst pomocí importu.
+
+To umožňuje:
+
+přenést data na jiný počítač
+
+vytvořit si vlastní zálohu
+
+sdílet statistiky s ostatními
+
 🌍 Jazyk
 
 Aplikace je kompletně v češtině včetně hlasových hlášek.
