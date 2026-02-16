@@ -34,6 +34,12 @@ Funguje na notebooku, tabletu i mobilu
 
 Vše běží čistě v prohlížeči.
 
+![Logo projektu](screenshots/501.png)
+
+![Logo projektu](screenshots/cricket.png)
+
+![Logo projektu](screenshots/turnaj-pavouk.png)
+
 📱 Podpora zařízení
 
 Aplikace je navržena tak, aby fungovala:
