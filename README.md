@@ -10,7 +10,10 @@ Jeden HTML soubor.
 Žádný backend.
 Žádné účty.
 Stačí otevřít a hrát.
+
+
 Aplikace s podporou až čtyř terčů je zde: https://github.com/lukasjicha/sipkova-liga-darts-scoreboard-multiboard.git
+
 
 ![Logo projektu](screenshots/main-screen.png)
 
